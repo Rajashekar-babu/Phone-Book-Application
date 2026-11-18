@@ -1,0 +1,6 @@
+# Compiled output
+*.o
+phonebook
+
+# Local contact data (may contain personal information)
+contacts.txt
